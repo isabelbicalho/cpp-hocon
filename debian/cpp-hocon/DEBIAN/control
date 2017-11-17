@@ -1,0 +1,8 @@
+Package: cpp-hocon
+Version: 0.1.6
+Architecture: amd64
+Maintainer: Isabel Amaro <iamaro@nvxltech.com>
+Installed-Size: 5256
+Section: misc
+Priority: optional
+Description: cpp-hocon package
